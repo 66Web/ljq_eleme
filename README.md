@@ -3,7 +3,11 @@
 > vue2 +vue-router2 + es6 +webpack 高仿饿了么Web app商家详情核心模块
 
 ## 项目爬坑博客地址：欢迎一起学习交流
-> 【【饿了么】—— Vue2.0高仿饿了么核心模块&移动端Web App项目爬坑（一）https://www.cnblogs.com/ljq66/p/9980372.html
+> 【饿了么】—— Vue2.0高仿饿了么核心模块&移动端Web App项目爬坑（一）
+   https://www.cnblogs.com/ljq66/p/9980372.html
+  【饿了么】—— Vue2.0高仿饿了么核心模块&移动端Web App项目爬坑（二）
+   https://www.cnblogs.com/ljq66/p/10006577.html
+
 
 版权声明：本项目原创，仅供交流学习，禁止商业使用 本人邮箱：liujieqiong1114@163.com
 
