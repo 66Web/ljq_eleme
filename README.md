@@ -14,29 +14,18 @@ https://www.cnblogs.com/ljq66/p/10012878.html
 
 版权声明：本项目原创，仅供交流学习，禁止商业使用 本人邮箱：liujieqiong1114@163.com
 
-## Build Setup
+## 安装与运行
 
 ``` bash
-# install dependencies
-npm install
+git clone https://github.com/66Web/ljq_eleme.git
 
-# serve with hot reload at localhost:8080
-npm run dev
+cd foodsell
 
-# build for production with minification
-npm run build
+npm install //安装依赖
 
-# build for production and view the bundle analyzer report
-npm run build --report
+npm run dev //服务端运行 访问 http://localhost:8080
 
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
+npm run build  //项目打包 
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 觉得有用可以来个Star哦！
